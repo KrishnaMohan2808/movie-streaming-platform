@@ -76,7 +76,7 @@ Edit
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/your-username/movie-streaming-platform.git
+   git clone https://github.com/KrishnaMohan2808/movie-streaming-platform.git
    cd movie-streaming-platform
 Install dependencies:
 
