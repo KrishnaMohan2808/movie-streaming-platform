@@ -1,4 +1,4 @@
-# Movie Streaming Platform (Netflix Clone)
+# Movie Streaming Platform 
 
 > **Work in Progress:**  
 > This project is not yet complete. I am actively working on adding more features and improvements.
